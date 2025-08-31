@@ -8,7 +8,7 @@ In addition to the data collection, the project also integrates **real-time tren
 ## Visuals
 
 ### Power Meter Interface
-<img src="PM.jpeg" width="70%">
+<img src="PM.jpeg" width="85%">
 
 ## Key Features
 - **Real-Time Data Capture**: Monitors and logs **Voltage** (L1, L2, L3), **Current** (L1, L2, L3), and **Power** (L1, L2, L3) values from the power meter.
