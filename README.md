@@ -5,6 +5,11 @@ The **Power Meter Data Monitoring and Visualization** project leverages **Adisra
 
 In addition to the data collection, the project also integrates **real-time trend monitoring** via **Adisra SmartView**'s built-in graphical tools. The system provides a **visual representation** of the captured electrical parameters, allowing operators and engineers to track the health of the electrical system, identify irregularities, and ensure that the system operates efficiently.
 
+## Visuals
+
+### Power Meter Interface
+<img src="PM.jpeg" width="70%">
+
 ## Key Features
 - **Real-Time Data Capture**: Monitors and logs **Voltage** (L1, L2, L3), **Current** (L1, L2, L3), and **Power** (L1, L2, L3) values from the power meter.
 - **Data Storage**: Captures real-time readings and stores them in an **SQL Server database** for further analysis or historical reference.
@@ -44,4 +49,3 @@ The trend monitoring feature plays a crucial role in this project, enabling **vi
 
 ## License
 This project is licensed under the **MIT License**, which allows for free use, modification, and distribution of the code.
-
